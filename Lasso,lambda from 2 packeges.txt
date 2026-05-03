@@ -1,0 +1,4 @@
+cv.lasso$lambda.1se
+0.142756322340561
+cv.lasso$lambda.min0.142756322340561
+fitlasso$bestTune$lambda0.130074244128007
