@@ -29,3 +29,8 @@ This project applies machine learning to microbiome species abundance data to cl
 
 ## Note
 Dataset not included due to usage restrictions.
+
+## Results visualization
+
+![ROC Curve](results/roc.png)
+![Feature Importance](results/importance.png)
