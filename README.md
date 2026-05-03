@@ -1,3 +1,4 @@
+# This project demonstrates the use of machine learning models to extract microbiome-based signatures for colorectal cancer prediction.
 # Microbiome-based classification of colorectal cancer
 
 ## Project overview
